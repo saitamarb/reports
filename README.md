@@ -20,3 +20,7 @@ Saitama.rbは埼玉県のRubyエンジニア向けコミュニティです。 �
 - 発起人 [タケユー・ウェブ株式会社](https://takeyuweb.co.jp)
 - 会場提供 [貸会議室6F](https://office6f.com/)様
 - 企画運営 Saitama.rb
+
+## 過去の様子
+
+- [#1](https://github.com/saitamarb/reports/blob/master/1.md)
