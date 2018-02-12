@@ -24,3 +24,4 @@ Saitama.rbは埼玉県のRubyエンジニア向けコミュニティです。 �
 ## 過去の様子
 
 - [#1](https://github.com/saitamarb/reports/blob/master/1.md)
+- [#2](https://github.com/saitamarb/reports/blob/master/2.md)
